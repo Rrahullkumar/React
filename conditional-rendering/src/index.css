@@ -1,0 +1,16 @@
+.Welcome{
+    font-size: 2.5em;
+    background-color: hsla(124, 100%, 40%, 0.728);
+    color:white;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 0;
+}
+.Login-prompt{
+    font-size: 2.5em;
+    background-color: hsla(0, 94%, 41%, 0.872);
+    color:white;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 0;
+}
